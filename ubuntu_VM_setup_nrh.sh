@@ -15,7 +15,7 @@ wget -P ~/Downloads/  https://downloads.imagej.net/fiji/latest/fiji-linux64.zip
 unzip ~/Downloads/fiji-linux64.zip -d ~/
 
 #install github desktop
-sudo wget https://github.com/shiftkey/desktop/releases/download/release-2.9.3-linux3/GitHubDesktop-linux-2.9.3-linux3.deb
+wget https://github.com/shiftkey/desktop/releases/download/release-2.9.3-linux3/GitHubDesktop-linux-2.9.3-linux3.deb
 sudo gdebi GitHubDesktop-linux-2.9.3-linux3.deb
 
 #install anaconda
