@@ -22,5 +22,7 @@ sudo gdebi GitHubDesktop-linux-2.9.3-linux3.deb
 wget https://repo.anaconda.com/archive/Anaconda3-2022.05-Linux-x86_64.sh
 bash Anaconda3-2022.05-Linux-x86_64.sh
 
+#close current terminal to complete anaconda install
+gnome-terminal
 exit
 
