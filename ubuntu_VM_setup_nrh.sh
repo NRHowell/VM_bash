@@ -3,8 +3,11 @@
 #Script for initial setup of Ubuntu VM's with Anaconda, ImageJ and Github
 
 
-sudo apt update
+#change the XFCE theme
+xfconf-query -c xsettings -p /Net/ThemeName -s "Greybird-dark"
 
+#update and upgrade
+sudo apt update
 sudo apt-get upgrade
 
 #install required packages
