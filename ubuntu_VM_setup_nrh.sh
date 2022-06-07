@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
 #Script for initial setup of Ubuntu VM's with Anaconda, ImageJ and Github
+#Author: nrh
 
 
 #change the XFCE theme
