@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-#Script for initial setup of Ubuntu VM's (XFCE). Sets theme and installs Anaconda, ImageJ, Atom, RStudio and Github
+#Script for initial setup of Ubuntu VM's (XFCE). Sets theme and installs Anaconda, ImageJ, Octave, Atom, RStudio and Github
 #Author: Nick Howell
 
 
@@ -12,7 +12,7 @@ sudo apt update
 sudo apt-get upgrade
 
 #install required packages
-sudo apt-get install atop wget neofetch libgl1-mesa-glx libegl1-mesa libxrandr2 libxrandr2 libxss1 libxcursor1 libxcomposite1 libasound2 libxi6 libxtst6 unzip gdebi-core vim-gt3 r-base
+sudo apt-get install atop wget neofetch libgl1-mesa-glx libegl1-mesa libxrandr2 libxrandr2 libxss1 libxcursor1 libxcomposite1 libasound2 libxi6 libxtst6 unzip gdebi-core vim-gt3 r-base octave
 
 #install atom
 sudo snap install atom --classic
