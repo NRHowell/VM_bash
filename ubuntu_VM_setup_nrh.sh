@@ -12,7 +12,7 @@ sudo apt update
 sudo apt-get upgrade
 
 #install required packages
-sudo apt-get install atop wget neofetch libgl1-mesa-glx libegl1-mesa libxrandr2 libxrandr2 libxss1 libxcursor1 libxcomposite1 libasound2 libxi6 libxtst6 unzip gdebi-core vim-gt3 r-base octave
+sudo apt-get install atop htop wget neofetch libgl1-mesa-glx libegl1-mesa libxrandr2 libxrandr2 libxss1 libxcursor1 libxcomposite1 libasound2 libxi6 libxtst6 unzip gdebi-core vim-gt3 r-base octave
 
 #install atom
 sudo snap install atom --classic
