@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-#Script for initial setup of Ubuntu VM's with Anaconda, ImageJ, Atom, RStudio and Github
+#Script for initial setup of Ubuntu VM's. Sets theme and installs Anaconda, ImageJ, Atom, RStudio and Github
 #Author: Nick Howell
 
 
