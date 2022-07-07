@@ -1,2 +1,2 @@
 # VM_bash
-Tools and setups for linux virtual machines
+My setup scripts for linux VM's
